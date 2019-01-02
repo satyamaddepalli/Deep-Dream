@@ -1,0 +1,17 @@
+#from functools import partial
+
+conda install -c conda-forge r-proc 
+conda install -c conda-forge/label/gcc7 r-proc 
+
+#import PIL.Image
+#import tensorflow as tf
+#import matplotlib.pyplot as plt
+#import urllib.request
+
+conda install -c anaconda requests
+
+#import os
+conda install -c jmcmurray os
+
+#import zipfile
+conda install -c conda-forge zip
